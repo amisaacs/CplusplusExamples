@@ -1,0 +1,19 @@
+Enter a line of text(only alpha characters, no punctuation):
+If not now, when?
+Enter a line of text(only alpha characters, no punctuation):
+When I get to the end of all I know I must believe in one of two things
+
+Tokens were inserted in the order:
+When I get to the end of all know must believe in one two things
+
+preOrder print:
+When I get end all believe to the of know in must one things two
+
+postOrder print:
+I believe all end in must know one of things the two to get When
+
+inOrder print:
+I When all believe end get in know must of one the things to two
+
+Number of leaves in the tree: 15
+Height of the tree: 7.

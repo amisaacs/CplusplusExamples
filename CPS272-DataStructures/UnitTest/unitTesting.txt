@@ -1,0 +1,11 @@
+Unit Testing -  the abstract
+
+Unit Testing is basically the formal application of how many programmers, including me, have gone about building code in a manner that builds on solid, error-free units of code.  Every program has an overall objective which can be broken down into smaller pieces or units.  The program may need a couple of classes.  Each class has its own methods.  And then there is overall process controlled by the main method.  Solid code can be built from the basics on up by first trying your best to break the building blocks and modifying the code so it won't break.  Once the most basic code is solid, then go on to try to break the code that uses that code.
+
+The difference between Unit Testing and Functional Testing
+
+Unit Testing is isolated, the input is controlled and one specific thing such as a class or method is tested.  A Functional Test will communicate with external sources and tests a functionality that may span across several classes, methods, etc.
+With Unit Testing values and input may be contrived.  For example, if a variable is filled by reading a file, instead of filling the variable by reading the variable, the variable may be hard-coded to have specific data in it to avoid using outside functionality and keep the test contained. Functional Testing tests a process which may use several blocks of code, methods, classes, etc. to be sure a specific function works correctly.  Instead of contrived data, it would actually input the data. So, a unit test tests a very specific piece of code, such as a class or a method, and a functional test tests a piece of functionality that expands across classes, methods and input/output.  It's possible to unit test all the pieces of code that will be used in a functional test before doing a functional test.
+
+
+

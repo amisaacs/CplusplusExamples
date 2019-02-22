@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\cis\documents\visual studio 2017\projects\cps272-mp5-queues\cps272-mp5-queues\source.cpp(69): warning C4018: '<': signed/unsigned mismatch
+  CPS272-MP5-Queues.vcxproj -> C:\Users\cis\Documents\Visual Studio 2017\Projects\CPS272-MP5-Queues\Debug\CPS272-MP5-Queues.exe
+  CPS272-MP5-Queues.vcxproj -> C:\Users\cis\Documents\Visual Studio 2017\Projects\CPS272-MP5-Queues\Debug\CPS272-MP5-Queues.pdb (Partial PDB)

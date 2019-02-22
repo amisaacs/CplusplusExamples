@@ -1,0 +1,6 @@
+﻿  listlnk.cpp
+Source.obj : error LNK2019: unresolved external symbol "public: __thiscall List<int>::List<int>(int)" (??0?$List@H@@QAE@H@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: __thiscall List<int>::~List<int>(void)" (??1?$List@H@@QAE@XZ) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall List<int>::insert(int const &)" (?insert@?$List@H@@QAEXABH@Z) referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol "public: void __thiscall List<int>::showStructure(void)const " (?showStructure@?$List@H@@QBEXXZ) referenced in function _main
+c:\users\cis\documents\visual studio 2017\Projects\Project1\Debug\Project1.exe : fatal error LNK1120: 4 unresolved externals

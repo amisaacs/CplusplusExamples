@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\cis\documents\visual studio 2017\projects\cps272-binarytree\cps272-binarytree\source.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  CPS272-BinaryTree.vcxproj -> C:\Users\cis\Documents\Visual Studio 2017\Projects\CPS272-BinaryTree\Debug\CPS272-BinaryTree.exe
+  CPS272-BinaryTree.vcxproj -> C:\Users\cis\Documents\Visual Studio 2017\Projects\CPS272-BinaryTree\Debug\CPS272-BinaryTree.pdb (Partial PDB)
